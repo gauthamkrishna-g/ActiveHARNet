@@ -1,4 +1,4 @@
-# ActiveHARNet-On-Device-Deep-Bayesian-Active-Learning-for-HAR
+# ActiveHARNet-OnDevice-Deep-Bayesian-Active-Learning-for-HAR
 
 ✔ This repository contains code to our research work/publication, ***[ActiveHARNet: Towards On-Device Deep Bayesian Active Learning for Human Activity Recognition](https://arxiv.org/abs/1906.00108)*** which was presented at [ACM MobiSys 2019 (3rd International Workshop on Embedded and Mobile Deep Learning, EMDL '19)](https://www.sigmobile.org/mobisys/2019/workshops/deepmobile19/).
 
