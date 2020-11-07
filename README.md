@@ -24,4 +24,4 @@ Authors: [Gautham Krishna Gudur](https://gauthamkrishna-g.github.io/), [Prahalat
 ```
 
 ## Acknowledgements
-Our code structure is inspired by [Deep Bayesian Active Learning](https://github.com/Riashat/Deep-Bayesian-Active-Learning).
+Our code structure is inspired from [Deep Bayesian Active Learning](https://github.com/Riashat/Deep-Bayesian-Active-Learning).
