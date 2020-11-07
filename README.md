@@ -7,6 +7,9 @@ Various health-care applications such as assisted living, fall detection etc., r
 
 Link: https://dl.acm.org/doi/10.1145/3325413.3329790, arXiv: https://arxiv.org/abs/1906.00108
 
+## Authors
+Authors: [Gautham Krishna Gudur](https://gauthamkrishna-g.github.io/), [Prahalathan Sundaramoorthy](https://prahalath.github.io/), Venkatesh Umaashankar
+
 ## Citation
 ```
 @inproceedings{10.1145/3325413.3329790,
@@ -19,9 +22,6 @@ Link: https://dl.acm.org/doi/10.1145/3325413.3329790, arXiv: https://arxiv.org/a
   series = {EMDL '19}
 }
 ```
-
-## Authors
-Authors: [Gautham Krishna Gudur](https://gauthamkrishna-g.github.io/), [Prahalathan Sundaramoorthy](https://prahalath.github.io/), Venkatesh Umaashankar
 
 ## Acknowledgements
 Our code structure is inspired by [Deep Bayesian Active Learning](https://github.com/Riashat/Deep-Bayesian-Active-Learning).
